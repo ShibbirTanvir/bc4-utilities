@@ -1,0 +1,17 @@
+.box{
+	width: 100px;
+	height: 100px;
+	background-color: green;
+}
+
+.rounded-pill{
+	width: 250px;
+	height: 100px;
+}
+.mh{
+	height: 200px;
+}
+.mh2{
+	height: 500px;
+	background-color: lightgray;
+}
